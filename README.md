@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-Safee
 - 👀 I’m interested in product managment and biomedical devices 
-- 🌱 I’m currently learning about APIs across industries and how it relates to building out platform economies. 
+- 🌱 I’m currently learning about APIs across industries and how it relates to building out platform economies
 - 📫 How to reach me
 -  Email: jsafee@smu.edu 
 -  LinkedIn: https://www.linkedin.com/in/jake-safee-07452015a/
